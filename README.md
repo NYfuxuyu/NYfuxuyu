@@ -39,11 +39,11 @@ Here are some ideas to get you started:
 **Languages and Frameworks**
 
 <code><img height="20" src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fblog.sudobits.com%2Fwp-content%2Fuploads%2F2011%2F05%2Fjava-logo.jpg&refer=http%3A%2F%2Fblog.sudobits.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1643801346&t=d8e0dc75a14152858c1bf554e5b47eda" alt="Java" title="Java"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="C++" title="C++"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" title="Python"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" title="Git"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" title="Docker"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" alt="TensorFlow" title="TensorFlow"></code>
+<code><img height="20" src="https://pic.imgdb.cn/item/620f377c2ab3f51d91978f89.png" alt="C++" title="C++"></code>
+<code><img height="20" src="https://pic.imgdb.cn/item/620f379a2ab3f51d9197b826.png" alt="Python" title="Python"></code>
+<code><img height="20" src="https://pic.imgdb.cn/item/620f37ae2ab3f51d9197d2fe.png" alt="Git" title="Git"></code>
+<code><img height="20" src="https://pic.imgdb.cn/item/620f37bc2ab3f51d9197e922.png" alt="Docker" title="Docker"></code>
+
 
 
 **Tools and Environments**
