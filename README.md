@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🔭 本科南邮信息安全，研究生东南大学网络空间安全
 - 🌱 目前研二，目标互联网大厂
 - 👯 目前专注于Java开发
-- 📫 博客：http://www.fuxuyu.top/ || http://study.fuxuyu.top/
+- 📫 博客：http://www.fuxuyu.top/ || http://blog.fuxuyu.top/ 资料整理：http://study.fuxuyu.top/
 - 💬 QQ：1043731326
 
 
